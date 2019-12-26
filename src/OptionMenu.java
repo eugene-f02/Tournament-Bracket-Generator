@@ -129,7 +129,7 @@ public class OptionMenu extends JFrame implements ActionListener
 	       try {                
 	          image = ImageIO.read(new File("question-mark.png"));
 	       } catch (IOException ex) {
-	            Errors.error("Cannot find image 'question-mark.pnj", "error");
+	            Errors.error("Cannot find image 'question-mark.pnj'", "error");
 	       }
 	
 	       
