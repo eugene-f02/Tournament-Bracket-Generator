@@ -36,7 +36,7 @@
 
 ## Additional Information
 
-- The source code for each of the classes are located in the src folder
+- The source code for each of the classes is located in the src folder
 - The file containing main method is named 'Menu.java'
 
 ## Support
