@@ -22,7 +22,7 @@
 > Generate your own tournament bracket, or use a sample
  <br/> <img src=https://i.ibb.co/5LkbMpX/Screen-Shot-2019-12-26-at-12-21-21-AM.png>
 
-> Friendly interface will assist you in generating your own tournament bracket
+> A user-friendly interface will assist you in generating your own tournament bracket
   <br/> <img src=https://i.ibb.co/kBsbmJj/Screen-Shot-2019-12-26-at-12-20-10-AM.png>
 
 
